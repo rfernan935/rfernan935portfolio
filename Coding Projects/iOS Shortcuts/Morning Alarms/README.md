@@ -2,9 +2,9 @@ To streamline my morning routine, I created a pair of iOS Shortcuts designed to 
 
 [Work Alarms On Steps.gif](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/iOS%20Shortcuts/Morning%20Alarms/Work%20Alarms%20On%20Steps.gif) illustrates the first shortcut in the pair, which enables morning alarms. Upon activation, the shortcut prompts the user with the question: Do you have work tomorrow? From there, the user can select one of four options:
 
-"Yes, at 6am": Activates a predefined group of alarms optimized for a 6am wake-up.
+"Yes, at 7am": Activates a predefined group of alarms optimized for a 6am wake-up.
 
-"Yes, at 7am": Activates a predefined group of alarms optimized for a 7am wake-up.
+"Yes, at 8am": Activates a predefined group of alarms optimized for a 7am wake-up.
 
 "Yes, a different time": Opens the Clock app for manual alarm setup.
 
