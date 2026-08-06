@@ -50,4 +50,4 @@ Before writing the final code, I wrote a different code to read the raw hexadeci
 - Add more remote button mappings for additional features
 - Expand to multiple digits using display multiplexing
 
-***Click [here](https://github.com/rfernan935/rfernanportfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/IRremote-7SegDisplay-InAction.gif) to view it in action.***
+***Click [here](https://github.com/rfernan935/rfernan935portfolio/blob/main/Coding%20Projects/Arduino%20IDE/IRremote-7SegDisplay/IRremote-7SegDisplay-InAction.gif) to view it in action.***
